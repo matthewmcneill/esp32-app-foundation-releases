@@ -3,22 +3,22 @@
   "manifestUrl": "https://github.com/matthewmcneill/esp32-app-foundation-releases/releases/download/manifest-latest/manifest.json",
   "channels": {
     "dev": {
-      "version": "v0.0.12-dev.4",
+      "version": "v0.0.12-dev.5",
       "securityVersion": 1,
       "assets": [
         {
           "board": "esp32dev",
-          "firmwareUrl": "https://github.com/matthewmcneill/esp32-app-foundation-releases/releases/download/v0.0.12-dev.4/firmware-esp32dev.bin",
-          "signatureUrl": "https://github.com/matthewmcneill/esp32-app-foundation-releases/releases/download/v0.0.12-dev.4/firmware-esp32dev.bin.sig",
-          "size": 1272800,
-          "sha256": "d1eab5a4ecdcc298351d32a4c99bce9408864564b41288c0a22b7e644d8ed06c"
+          "firmwareUrl": "https://github.com/matthewmcneill/esp32-app-foundation-releases/releases/download/v0.0.12-dev.5/firmware-esp32dev.bin",
+          "signatureUrl": "https://github.com/matthewmcneill/esp32-app-foundation-releases/releases/download/v0.0.12-dev.5/firmware-esp32dev.bin.sig",
+          "size": 1272832,
+          "sha256": "6ea5cf0fa6cbc35d3cafc5fbd22174fa5399f4d0263ffd1f6ebfa9410413f12d"
         },
         {
           "board": "esp32s3nano",
-          "firmwareUrl": "https://github.com/matthewmcneill/esp32-app-foundation-releases/releases/download/v0.0.12-dev.4/firmware-esp32s3nano.bin",
-          "signatureUrl": "https://github.com/matthewmcneill/esp32-app-foundation-releases/releases/download/v0.0.12-dev.4/firmware-esp32s3nano.bin.sig",
-          "size": 1327408,
-          "sha256": "a8f50c8142d540df9601fe2988d293e519401548cd1648df14a661b5ab181e86"
+          "firmwareUrl": "https://github.com/matthewmcneill/esp32-app-foundation-releases/releases/download/v0.0.12-dev.5/firmware-esp32s3nano.bin",
+          "signatureUrl": "https://github.com/matthewmcneill/esp32-app-foundation-releases/releases/download/v0.0.12-dev.5/firmware-esp32s3nano.bin.sig",
+          "size": 1327440,
+          "sha256": "347b061ba8017b171d18b5e4f6ffc920d6d25f4a00dd9d2a57c60a8cb78b2d4c"
         }
       ]
     }
