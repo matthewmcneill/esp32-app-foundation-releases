@@ -3,22 +3,22 @@
   "manifestUrl": "https://github.com/matthewmcneill/esp32-app-foundation-releases/releases/download/manifest-latest/manifest.json",
   "channels": {
     "dev": {
-      "version": "v0.0.12-dev.5",
+      "version": "v0.0.12-dev.6",
       "securityVersion": 1,
       "assets": [
         {
           "board": "esp32dev",
-          "firmwareUrl": "https://github.com/matthewmcneill/esp32-app-foundation-releases/releases/download/v0.0.12-dev.5/firmware-esp32dev.bin",
-          "signatureUrl": "https://github.com/matthewmcneill/esp32-app-foundation-releases/releases/download/v0.0.12-dev.5/firmware-esp32dev.bin.sig",
-          "size": 1272832,
-          "sha256": "257489861be74a3907d4349736c480c122e26bf5eb5af797d3a9ec54fc5eb0b2"
+          "firmwareUrl": "https://github.com/matthewmcneill/esp32-app-foundation-releases/releases/download/v0.0.12-dev.6/firmware-esp32dev.bin",
+          "signatureUrl": "https://github.com/matthewmcneill/esp32-app-foundation-releases/releases/download/v0.0.12-dev.6/firmware-esp32dev.bin.sig",
+          "size": 1272864,
+          "sha256": "7ed3aa032e8ee44b38b7b35e8b664389716f90883177546642bbfcd4409adb84"
         },
         {
           "board": "esp32s3nano",
-          "firmwareUrl": "https://github.com/matthewmcneill/esp32-app-foundation-releases/releases/download/v0.0.12-dev.5/firmware-esp32s3nano.bin",
-          "signatureUrl": "https://github.com/matthewmcneill/esp32-app-foundation-releases/releases/download/v0.0.12-dev.5/firmware-esp32s3nano.bin.sig",
-          "size": 1327440,
-          "sha256": "0533fb8b35da27273da851aa898f0524ba3567e13fb9f91ee51645d593517f2f"
+          "firmwareUrl": "https://github.com/matthewmcneill/esp32-app-foundation-releases/releases/download/v0.0.12-dev.6/firmware-esp32s3nano.bin",
+          "signatureUrl": "https://github.com/matthewmcneill/esp32-app-foundation-releases/releases/download/v0.0.12-dev.6/firmware-esp32s3nano.bin.sig",
+          "size": 1327456,
+          "sha256": "c45a8f1b6453d3c9e9a88c5f44e5debe35b8586613341ac1755bf3d94c80f4f6"
         }
       ]
     }
