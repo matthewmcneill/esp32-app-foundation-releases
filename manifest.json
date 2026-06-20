@@ -1,24 +1,20 @@
 {
   "manifestVersion": 1,
-  "manifestUrl": "https://github.com/matthewmcneill/esp32-app-foundation-releases/releases/download/manifest-latest/manifest.json",
+  "manifestUrl": "https://raw.githubusercontent.com/matthewmcneill/esp32-app-foundation-releases/main/manifest.json",
   "channels": {
     "dev": {
-      "version": "v0.0.12-dev.7",
+      "version": "v0.0.12-dev.8",
       "securityVersion": 1,
       "assets": [
         {
           "board": "esp32dev",
-          "firmwareUrl": "https://github.com/matthewmcneill/esp32-app-foundation-releases/releases/download/v0.0.12-dev.7/firmware-esp32dev.bin",
-          "signatureUrl": "https://github.com/matthewmcneill/esp32-app-foundation-releases/releases/download/v0.0.12-dev.7/firmware-esp32dev.bin.sig",
-          "size": 1272816,
-          "sha256": "00f5b9f1cedef15abaf817e0c1e6e40c390a9b849ee6bf2e51b81f709e981dbc"
+          "firmwareUrl": "https://github.com/matthewmcneill/esp32-app-foundation-releases/releases/download/v0.0.12-dev.8/firmware-esp32dev.bin",
+          "signatureUrl": "https://github.com/matthewmcneill/esp32-app-foundation-releases/releases/download/v0.0.12-dev.8/firmware-esp32dev.bin.sig"
         },
         {
           "board": "esp32s3nano",
-          "firmwareUrl": "https://github.com/matthewmcneill/esp32-app-foundation-releases/releases/download/v0.0.12-dev.7/firmware-esp32s3nano.bin",
-          "signatureUrl": "https://github.com/matthewmcneill/esp32-app-foundation-releases/releases/download/v0.0.12-dev.7/firmware-esp32s3nano.bin.sig",
-          "size": 1327456,
-          "sha256": "7fd9eabb3352fe87159af7f50f1e8018a9e78853fb7686db26c5aaba3c3d1955"
+          "firmwareUrl": "https://github.com/matthewmcneill/esp32-app-foundation-releases/releases/download/v0.0.12-dev.8/firmware-esp32s3nano.bin",
+          "signatureUrl": "https://github.com/matthewmcneill/esp32-app-foundation-releases/releases/download/v0.0.12-dev.8/firmware-esp32s3nano.bin.sig"
         }
       ]
     }
