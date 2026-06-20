@@ -11,14 +11,14 @@
           "firmwareUrl": "https://github.com/matthewmcneill/esp32-app-foundation-releases/releases/download/v0.0.12-dev.5/firmware-esp32dev.bin",
           "signatureUrl": "https://github.com/matthewmcneill/esp32-app-foundation-releases/releases/download/v0.0.12-dev.5/firmware-esp32dev.bin.sig",
           "size": 1272832,
-          "sha256": "6ea5cf0fa6cbc35d3cafc5fbd22174fa5399f4d0263ffd1f6ebfa9410413f12d"
+          "sha256": "7811cf3a491c25b758ef1d7877a4291dcaf6909c46ad48e9eb659a901639b528"
         },
         {
           "board": "esp32s3nano",
           "firmwareUrl": "https://github.com/matthewmcneill/esp32-app-foundation-releases/releases/download/v0.0.12-dev.5/firmware-esp32s3nano.bin",
           "signatureUrl": "https://github.com/matthewmcneill/esp32-app-foundation-releases/releases/download/v0.0.12-dev.5/firmware-esp32s3nano.bin.sig",
-          "size": 1327440,
-          "sha256": "347b061ba8017b171d18b5e4f6ffc920d6d25f4a00dd9d2a57c60a8cb78b2d4c"
+          "size": 1325632,
+          "sha256": "813748bf199a673523620752b0a1cf40a56ce58edfc1e158e4f5b65bdaeab668"
         }
       ]
     }
